@@ -38,6 +38,7 @@
 ### 🔥 Featured Projects 
 - 🤖 [**Discord Bot Project**](#) – A powerful bot with a lot of comands
 - 🔐 [**CyberCrypt**](https://github.com/1NightborneX1/CyberCrypt) – Base64 encryption and decryption
+- 🤖 [**🚀 Starblast Server Info Bot**](https://github.com/1NightborneX1/-Starblast-Server-Info-Bot-/) – Get real-time Starblast.io server information directly in your Discord server!
 
 
 ---
